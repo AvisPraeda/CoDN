@@ -1,2 +1,2 @@
 # CoDN
-educational videogame about programming cells
+Educational videogame about programming cells
