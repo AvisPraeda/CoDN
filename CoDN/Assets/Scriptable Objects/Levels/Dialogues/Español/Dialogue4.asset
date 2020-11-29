@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue4
+  m_EditorClassIdentifier: 
+  header: Nivel 4
+  sentences:
+  - "En el siguiente nivel aparecer\xE1 un nuevo tipo de part\xEDcula, la part\xEDcula
+    negativa. \n\nSe trata de una part\xEDcula de forma triangular perjudicial para
+    las c\xE9lulas. En caso de realizar la respiraci\xF3n con la part\xEDcula negativa,
+    la c\xE9lula perder\xE1 casi toda su energ\xEDa.\n\nAdem\xE1s, extraerlas supondr\xE1
+    un coste energ\xE9tico adicional."
+  - "La tarea \"Si part\xEDcula\" te permite escoger qu\xE9 hace la c\xE9lula dependiendo
+    del tipo de part\xEDcula introducida en la c\xE9lula.\n\nSi la part\xEDcula coincide
+    con el tipo de part\xEDcula seleccionado se realizar\xE1 la siguiente instrucci\xF3n
+    con normalidad. En caso contrario, se la saltar\xE1."
+  - "Objetivo:\n\nRealiza la respiraci\xF3n 10 veces evitando procesar una part\xEDcula
+    perjudicial para la c\xE9lula (tipo negativo), utilizando la instrucci\xF3n \"Si
+    part\xEDcula\"."

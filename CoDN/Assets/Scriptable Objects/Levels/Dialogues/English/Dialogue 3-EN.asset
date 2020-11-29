@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue 3-EN
+  m_EditorClassIdentifier: 
+  header: Level 3
+  sentences:
+  - "So far, only positive particles have appeared. From now on, other type of particles
+    will appear, with different effects for the cell.\r\n\r\nOn this level, neutral
+    particles are introduced. They are square shaped and are inoffensive for the cell."
+  - "The \"Respiration\" task allows you to process particles. Depending on the type
+    of particle, processing it will have different outcomes:\r\n\r\n- Positive particle:
+    +3 energy. Turns into neutral particle.\r\n- Neutral particle: +0 energy. Turns
+    into positive particle."
+  - "The \"Color\" task has also been added and it allows you to change the color
+    of the cell.\r\n\r\nIf its used right before some tasks, it allows you to visualize
+    instructions that take a while to complete like \"Respiration\" or \"Endocytosis\".\r\n"
+  - "Objective:\r\n\r\nPerform the \"Respiration\" task 6 times."

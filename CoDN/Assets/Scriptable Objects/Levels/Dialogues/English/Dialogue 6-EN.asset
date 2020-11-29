@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue 6-EN
+  m_EditorClassIdentifier: 
+  header: Level 6
+  sentences:
+  - "The \"If energy\" task allows you to choose different instructions depending
+    on the cell's energy value.\r\n\r\nIf the energy value is higher than the number
+    introduced in the code, the cell will perform the next task. Otherwise, the next
+    task will be avoided.\r\n"
+  - "Objective:\r\n\r\nMake use of the \"If energy\" task to process 10 particles,
+    keeping the cell's energy bellow 10.\r Consider that the cell will loose 1 point
+    of energy each time it performs \"Exocytosis\".\n\r\n- On this level, only positive
+    particles will appear."

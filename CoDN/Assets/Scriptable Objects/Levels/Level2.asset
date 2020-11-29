@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81702cc08892102449fb6f0a83f3a191, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  conditions:
+  - {fileID: 11400000, guid: dfd1eadd7654e914299f3a6f12df36f3, type: 2}
+  - {fileID: 11400000, guid: 24a18b8a6dad498469f2ed6c80cbe9b9, type: 2}
+  dialogueEN: {fileID: 11400000, guid: c5c4b835841335f4889f5a45f8eb812a, type: 2}
+  dialogueES: {fileID: 11400000, guid: f2e04b0d86817174593d758512c8024a, type: 2}
+  tasks:
+  - {fileID: 1797665744362276231, guid: f7a27a02d9d541f408a23d3bbe9c7b64, type: 3}
+  - {fileID: 850400932704409967, guid: 1fb4099d92aff5b4595e7176ddcae6c3, type: 3}
+  - {fileID: 213927544362095287, guid: ee558b68674c8c5448996e2d3335aa5b, type: 3}
+  cellEnergy: 10
+  particles:
+  - {fileID: 542084215683258614, guid: d252f80839947c74b8763c97f987d8b4, type: 3}
+  particleWeights: 64000000
+  levelComplete: 0
+  levelEnd: 0

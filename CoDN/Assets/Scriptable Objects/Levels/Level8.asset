@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81702cc08892102449fb6f0a83f3a191, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  conditions:
+  - {fileID: 11400000, guid: fde0dc6cd0c29b7459ec5736afb1eca7, type: 2}
+  dialogueEN: {fileID: 11400000, guid: badf4add281a7564eab986003e4a936d, type: 2}
+  dialogueES: {fileID: 11400000, guid: 6652f0826e69e514187adaf87c953cb3, type: 2}
+  tasks:
+  - {fileID: 1797665744362276231, guid: f7a27a02d9d541f408a23d3bbe9c7b64, type: 3}
+  - {fileID: 850400932704409967, guid: 1fb4099d92aff5b4595e7176ddcae6c3, type: 3}
+  - {fileID: 4898972756862537050, guid: d46e6b081323c6949a17281cf9c8ae99, type: 3}
+  - {fileID: 8455623367944889293, guid: 41fd0da123325184dad5cfdb1c40d766, type: 3}
+  - {fileID: 1328059379497296451, guid: ee4bf4332b176324196e9c880118867a, type: 3}
+  - {fileID: 213927544362095287, guid: ee558b68674c8c5448996e2d3335aa5b, type: 3}
+  - {fileID: 107085561459443665, guid: ecfcb1de293294540853ee45554efb86, type: 3}
+  - {fileID: 8929030909794319425, guid: 360f2326e2201d44daeda0c346b344d5, type: 3}
+  - {fileID: 7418961969508416943, guid: 0ee9e9b419c7c734a81f680fba381c38, type: 3}
+  - {fileID: 3383785556423105388, guid: c243a0451b3e7ba43b051090abd9c676, type: 3}
+  cellEnergy: 10
+  particles:
+  - {fileID: 542084215683258614, guid: d252f80839947c74b8763c97f987d8b4, type: 3}
+  - {fileID: 7299634089424002630, guid: 4645fe5ae31ca3446bb46bf0a7184c7d, type: 3}
+  - {fileID: 6131465535164141289, guid: 89bd4cdab2d257748af923a4d5bedd09, type: 3}
+  particleWeights: 46000000140000000a000000
+  levelComplete: 0
+  levelEnd: 0

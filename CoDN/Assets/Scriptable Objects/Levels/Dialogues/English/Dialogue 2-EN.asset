@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue 2-EN
+  m_EditorClassIdentifier: 
+  header: Level 2
+  sentences:
+  - "The jump instruction allows you to set any line from the code as the next instruction.\r\n\r\nTo
+    use it, add the \"Jump\" task and introduce the number of the line of code you
+    want to set as the next instruction.\r\nIt is specially useful to return to previous
+    tasks or to avoid subsequent lines of code.\r"
+  - "Objective:\r\n\nIntroduce 6 particles in the cell without adding more than 3
+    instructions to the code.\r You can modify the simulation speed using the scrollbar
+    bellow the code.\n\nNote that the cell can't store more than 5 particles at the
+    same time."

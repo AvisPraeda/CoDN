@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59025fe2de939954d877c904b84ae4d3, type: 3}
+  m_Name: If Size
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7053894113420926481, guid: 8745cb83d47fabb4db1c42da5d277365, type: 3}
+  type: 6
+  description: Checks the number of particles inside the cell and skips the next instruction
+    if the number is equal or lower than the selected value.
+  info: 

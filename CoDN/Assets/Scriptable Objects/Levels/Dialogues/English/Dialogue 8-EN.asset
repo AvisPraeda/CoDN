@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue 8-EN
+  m_EditorClassIdentifier: 
+  header: Level 8
+  sentences:
+  - "The \"Destroy\" task eliminates the particle introduced first in exchange of
+    energy.\r\n\r\nIf there are more than one cells, it can be useful to destroy negative
+    particles so they dont bother the rest.\r\n"
+  - "Objective:\r\n\r\nDestroy 7 particles."

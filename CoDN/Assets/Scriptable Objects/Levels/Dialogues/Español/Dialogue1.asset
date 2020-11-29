@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47aa5d8659055a4a90a05e1b0ab7187, type: 3}
+  m_Name: Dialogue1
+  m_EditorClassIdentifier: 
+  header: Nivel 1
+  sentences:
+  - "Puedes modificar el comportamiento de la c\xE9lula programando su c\xF3digo gen\xE9tico.\n
+    \nA\xF1ade instrucciones de la lista de tareas con el bot\xF3n izquierdo del rat\xF3n
+    y pulsa el bot\xF3n de play en la parte inferior una vez el c\xF3digo est\xE9
+    listo."
+  - "Puedes reordenar las tareas en el c\xF3digo arrastr\xE1ndolas a la posici\xF3n
+    deseada. \n\nPara eliminar instrucciones puedes arrastrarlas fuera del c\xF3digo
+    o pulsar en el bot\xF3n de la papelera para borrar todas las tareas."
+  - "Una vez comience la simulaci\xF3n, la c\xE9lula realizar\xE1 las tareas en el
+    orden en el que se hayan colocado. \n\nTen en cuenta que alterar el orden del
+    c\xF3digo durante la simulaci\xF3n no cambiar\xE1 el comportamiento de la c\xE9lula."
+  - "Actualmente, dispones de 2 instrucciones: \n\nEndocitosis: la c\xE9lula introduce
+    en su interior la primera part\xEDcula que entre en contacto.\n\nExocitosis: expulsa
+    la primera part\xEDcula que haya introducido.\n"
+  - "Objetivo:\n \nHaz que la c\xE9lula expulse 4 part\xEDculas realizando la exocitosis. "
