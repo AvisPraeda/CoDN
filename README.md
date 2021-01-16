@@ -16,6 +16,8 @@ Once the code is ready, a simulation takes place to check is validity. In this s
 
 At each level new commands are added, and the objectives become more complex. This way, more possibilities are offered to modify the behaviour of the cell while fundamentals aspects of programming are taught.
 
+The application hosted at the following link can be played in both English and Spanish: https://pisco.itch.io/codn
+
 ## Español
 CoDN es un juego de puzles en el que se debe programar el código genético de una célula para que realice las siguientes funciones vitales:
 
@@ -32,6 +34,8 @@ El juego dispone de distintos niveles en los que se explica el funcionamiento de
 Una vez el código está listo, se lleva a cabo una simulación para comprobar su validez. En esta simulación, se ejecutan las tareas en el orden indicado en el código, a la vez que aparecen partículas de distinto tipo en su entorno, con las que debe interactuar la célula.
 
 En cada nivel se añaden nuevos comandos y los objetivos se vuelven más complejos. De esta forma, se ofrecen más posibilidades para modificar el comportamiento de la célula a la vez que se enseñan aspectos fundamentales de la programación.
+
+La aplicación se encuentra alojada en el siguiente enlace y se puede jugar tanto en inglés como en español: https://pisco.itch.io/codn.
 
 
 
