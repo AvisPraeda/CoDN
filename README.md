@@ -1,4 +1,5 @@
 # CoDN
+![Error al cargar la imagen](https://github.com/Pisc0/CoDN/blob/main/Images/Men%C3%BA%20Principal%20(ENG).PNG)
 ## English
 CoDN is a puzzle game in which a cell’s genetic code must be programmed to perform the following vital functions:
 
@@ -38,4 +39,5 @@ En cada nivel se añaden nuevos comandos y los objetivos se vuelven más complej
 La aplicación se encuentra alojada en el siguiente enlace y se puede jugar tanto en inglés como en español: https://pisco.itch.io/codn.
 
 
+![Error al cargar la imagen](https://github.com/Pisc0/CoDN/blob/main/Images/Pantalla%20de%20Juego%202.PNG)
 
