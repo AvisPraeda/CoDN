@@ -40,4 +40,3 @@ La aplicación se encuentra alojada en el siguiente enlace y se puede jugar tant
 
 
 ![Error al cargar la imagen](https://github.com/Pisc0/CoDN/blob/main/Images/Pantalla%20de%20Juego%202.PNG)
-
