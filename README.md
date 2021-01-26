@@ -1,4 +1,7 @@
 # CoDN
+Gameplay Trailer: https://youtu.be/BqvLpyq4q54
+
+
 ![Error al cargar la imagen](https://github.com/Pisc0/CoDN/blob/main/Images/Men%C3%BA%20Principal%20(ENG).PNG)
 ## English
 CoDN is a puzzle game in which a cell’s genetic code must be programmed to perform the following vital functions:
